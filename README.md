@@ -15,7 +15,7 @@
 - 👯 Learning and growing every day
 
 <hr>
-<h1>🛠️ Languages and Tools :</h1>
+<h1>🛠️Languages and Tools:</h1>
 <div>
   <img width="30" title="Typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/>
   <img width="30" title="Javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
