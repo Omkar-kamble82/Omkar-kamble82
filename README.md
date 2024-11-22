@@ -9,7 +9,7 @@
 
 ### About me :
 
-- 🌱 I'm a Software Developer soon to complete an engineering degree, eager to embrace new challenges in the tech industry.
+- 🌱 I'm a Software Developer with an engineering degree, eager to embrace new challenges in the tech industry.
 - 💻 Proficient in a range of technologies including React.js, Node.js, Express.js, MongoDB, JavaScript, TypeScript, and Next.js.
 - 💼 Excited about crafting innovative solutions and motivated by a keen interest in exploring emerging technologies.
 - 👯 Learning and growing every day
